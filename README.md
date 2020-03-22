@@ -1,5 +1,5 @@
 # Command Handler
-This project is a WindowsService who handles the commands of the System.
+This project is a WindowsService who handles the commands of the 'Chiquitania S.R.L. System'.
 
 Commnads
 -----------------
